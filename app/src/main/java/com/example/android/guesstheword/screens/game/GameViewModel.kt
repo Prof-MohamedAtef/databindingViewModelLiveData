@@ -88,6 +88,10 @@ class GameViewModel : ViewModel() {
         nextWord()
     }
 
+    fun onGameFinish(){
+
+    }
+
     /**
      * Moves to the next word in the list.
      */
